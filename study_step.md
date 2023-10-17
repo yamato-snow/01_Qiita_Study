@@ -27,7 +27,7 @@
 ### ライブラリとモジュール
 
 勉強目安時間: 1時間
-
+- [おみくじアプリを作る前に](https://qiita.com/AI_Academy/items/b97b2178b4d10abe0adb#%E3%81%8A%E3%81%BF%E3%81%8F%E3%81%98%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B%E5%89%8D%E3%81%AB)
 - [ライブラリ](https://qiita.com/AI_Academy/items/b97b2178b4d10abe0adb#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)
 - [おみくじアプリを実行してみる](https://qiita.com/AI_Academy/items/b97b2178b4d10abe0adb#%E3%81%8A%E3%81%BF%E3%81%8F%E3%81%98%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B)
 
